@@ -1,0 +1,40 @@
+{
+  "keywords": [
+    "intern",
+    "internship",
+    "trainee",
+    "apprentice",
+    "industrial attachment",
+    "eee",
+    "electrical",
+    "electronic",
+    "engineer",
+    "engineering"
+  ],
+  "sites": [
+    {
+      "name": "DPDC Career",
+      "url": "https://dpdc.org.bd/career/"
+    },
+    {
+      "name": "Walton Jobs Portal",
+      "url": "https://jobs.waltonbd.com/"
+    },
+    {
+      "name": "Grameenphone Careers",
+      "url": "https://www.grameenphone.com/about/careers"
+    },
+    {
+      "name": "PGCB Career",
+      "url": "https://www.pgcb.gov.bd/site/page/career"
+    },
+    {
+      "name": "Robi Careers",
+      "url": "https://www.robi.com.bd/en/personal/about-us/career"
+    },
+    {
+      "name": "BREB Career",
+      "url": "https://www.reb.gov.bd/site/view/notices"
+    }
+  ]
+}
